@@ -130,3 +130,6 @@ dmypy.json
 
 # Ignore temporary files produced my MacOS (.DS_Store)
 .DS_Store
+
+# Ignore cache files created by GloVe
+.vector_cache*
